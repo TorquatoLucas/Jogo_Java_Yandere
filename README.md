@@ -20,7 +20,7 @@ Ao descobrir que outras garotas estão tentando se aproximar dele, você toma um
 
 - Execute o arquivo Yandere.exe que está no repositório! (Necessário ter o Java em sua máquina)
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Java 8+
 
 Programação orientada a objetos
@@ -29,5 +29,5 @@ Sistema de decisões baseado em texto
 
 Estrutura modular para eventos e personagens
 
-✏️ Autor
+## ✏️ Autor
 Desenvolvido por Lucas Torquato em colaboração com o professor Júlio Cesar Alves
